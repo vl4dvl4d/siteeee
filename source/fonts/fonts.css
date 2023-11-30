@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Suisse Int\'l Mono';
+    src: url('SuisseIntlMono.eot');
+    src: url('SuisseIntlMono.eot?#iefix') format('embedded-opentype'),
+        url('SuisseIntlMono.woff2') format('woff2'),
+        url('SuisseIntlMono.woff') format('woff'),
+        url('SuisseIntlMono.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Suisse Int\'l Mono';
+    src: url('SuisseIntlMono-Thin.eot');
+    src: url('SuisseIntlMono-Thin.eot?#iefix') format('embedded-opentype'),
+        url('SuisseIntlMono-Thin.woff2') format('woff2'),
+        url('SuisseIntlMono-Thin.woff') format('woff'),
+        url('SuisseIntlMono-Thin.ttf') format('truetype');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Suisse Int\'l';
+    src: url('SuisseIntl-Bold.eot');
+    src: url('SuisseIntl-Bold.eot?#iefix') format('embedded-opentype'),
+        url('SuisseIntl-Bold.woff2') format('woff2'),
+        url('SuisseIntl-Bold.woff') format('woff'),
+        url('SuisseIntl-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Suisse Int\'l';
+    src: url('SuisseIntl-Regular.eot');
+    src: url('SuisseIntl-Regular.eot?#iefix') format('embedded-opentype'),
+        url('SuisseIntl-Regular.woff2') format('woff2'),
+        url('SuisseIntl-Regular.woff') format('woff'),
+        url('SuisseIntl-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Suisse Int\'l';
+    src: url('SuisseIntl-Medium.eot');
+    src: url('SuisseIntl-Medium.eot?#iefix') format('embedded-opentype'),
+        url('SuisseIntl-Medium.woff2') format('woff2'),
+        url('SuisseIntl-Medium.woff') format('woff'),
+        url('SuisseIntl-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Suisse Int\'l Book';
+    src: url('SuisseIntl-Book.eot');
+    src: url('SuisseIntl-Book.eot?#iefix') format('embedded-opentype'),
+        url('SuisseIntl-Book.woff2') format('woff2'),
+        url('SuisseIntl-Book.woff') format('woff'),
+        url('SuisseIntl-Book.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
